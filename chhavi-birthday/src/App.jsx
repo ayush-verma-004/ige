@@ -2,6 +2,7 @@ import React from 'react';
 import Hero from './components/Hero';
 import VideoSection from './components/VideoSection';
 import Timeline from './components/Timeline';
+import ReasonsStack from './components/ReasonsStack';
 import MessageCard from './components/MessageCard';
 import Finale from './components/Finale';
 import Footer from './components/Footer';
@@ -13,6 +14,7 @@ function App() {
         <Hero />
         <VideoSection />
         <Timeline />
+        <ReasonsStack />
         <MessageCard />
         <Finale />
         <Footer />

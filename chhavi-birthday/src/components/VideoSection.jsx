@@ -15,11 +15,10 @@ const VideoSection = () => {
                 <div className="aspect-[9/16] bg-gray-900 rounded-sm overflow-hidden flex items-center justify-center shadow-inner relative group">
                     <video
                         src={videoSource}
-                        autoPlay
-                        muted
+                        controls
                         loop
                         playsInline
-                        className="w-full h-full object-cover transform -rotate-90 scale-[1.78]"
+                        className="w-full h-full object-cover"
                     />
                 </div>
             </motion.div>

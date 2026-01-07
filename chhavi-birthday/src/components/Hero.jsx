@@ -101,7 +101,7 @@ const Hero = () => {
                         className="absolute md:right-0 md:top-1/2 md:-translate-y-1/2 text-center md:text-right z-20 mt-20 md:mt-0"
                     >
                         <div className="text-white backdrop-blur-sm bg-white/10 p-4 rounded-xl md:bg-transparent md:p-0 md:backdrop-blur-none inline-block">
-                            <h3 className="text-4xl md:text-7xl font-bold tracking-tighter">SEP . 06</h3>
+                            <h3 className="text-4xl md:text-7xl font-bold tracking-tighter">DEC . 17</h3>
                             <p className="text-sm md:text-xl tracking-widest uppercase mt-2">Let's Celebrate</p>
                         </div>
                     </motion.div>
